@@ -1,0 +1,1 @@
+import{la as o}from"./chunk-BEVEPN7V.js";import"./chunk-EU2KAMEK.js";import"./chunk-EMXRSGQS.js";var p=(()=>{let t=class t{transform(n,e,s){if(!n||n.length===0||e<1||s<1)return[];let i=(e-1)*s,c=i+s;return n.slice(i,c)}};t.\u0275fac=function(e){return new(e||t)},t.\u0275pipe=o({name:"paginator",type:t,pure:!0,standalone:!0});let r=t;return r})();export{p as PaginatorPipe};
